@@ -1,6 +1,6 @@
 #!name=podcasts_proxy_list
 #!homepage=https://github.com/h6fYe34KFSiH/podcasts_proxy_list
-#!desc=Rules:19051 Created:05-28
+#!desc=Rules:6 Created:05-28
 [Rule]
 DOMAIN-SUFFIX,podcasts.apple.com,PROXY
 DOMAIN-SUFFIX,bookkeeper.itunes.apple.com,PROXY
